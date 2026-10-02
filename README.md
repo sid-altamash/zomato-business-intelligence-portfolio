@@ -3,8 +3,8 @@
 An end-to-end data analytics and machine learning capstone project evaluating Zomato's operational efficiency, customer behavior, and delivery logistics across multiple Indian cities.
 
 ## 🎥 Dashboard Demo
-*(Upload your screen recording or GIF to the repository, then update the filename below)*
-![Zomato Dashboard Demo](your-video-filename.gif)
+
+![Zomato Dashboard Demo](02-38-59.mp4)
 
 ---
 
