@@ -4,7 +4,7 @@ An end-to-end data analytics and machine learning capstone project evaluating Zo
 
 ## 🎥 Dashboard Demo
 
-![Zomato Dashboard Demo](02-38-59.mp4)
+![Zomato Dashboard Demo](zomato_demo.gif)
 
 ---
 
